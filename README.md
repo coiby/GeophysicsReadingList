@@ -1,0 +1,2 @@
+# GeophysicsReadingList
+Geophysics Reading List 
